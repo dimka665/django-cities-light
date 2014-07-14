@@ -12,7 +12,7 @@ from django.utils.translation import ugettext_lazy as _
 
 from unidecode import unidecode
 
-from south.modelsinspector import add_introspection_rules
+# from south.modelsinspector import add_introspection_rules
 
 import autoslug
 
